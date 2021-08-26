@@ -4,10 +4,10 @@ var height;
 
 function preload(){
    bg =loadImage("./images/cityImage.png");
-   balloonImage1=loadAnimation("./images/HotAirBallon01.png");
-   balloonImage2=loadAnimation("./images/HotAirBallon01.png","./images/HotAirBallon01.png",
-   "./images/HotAirBallon01.png","./images/HotAirBallon02.png","./images/HotAirBallon02.png",
-   "./images/HotAirBallon02.png","./images/HotAirBallon03.png","./images/HotAirBallon03.png","./images/HotAirBallon03.png");
+   balloonImage1=loadAnimation("./Images/HotAirBallon01.png");
+   balloonImage2=loadAnimation("./Images/HotAirBallon01.png","./Images/HotAirBallon01.png",
+   "./images/HotAirBallon01.png","./Images/HotAirBallon02.png","./Images/HotAirBallon02.png",
+   "./images/HotAirBallon02.png","./Images/HotAirBallon03.png","./Images/HotAirBallon03.png","./Images/HotAirBallon03.png");
   }
 
 //Function to set initial environment
